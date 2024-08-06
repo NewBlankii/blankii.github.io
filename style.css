@@ -1,0 +1,31 @@
+
+p{
+	font-size: 30px;
+}
+
+#sum{
+	height:50px;
+	width: 400px;
+	font-size: 28px;
+}
+#content{
+	height:50px;
+	width: 800px;
+	vertical-align:middle;
+	font-size: 28px;
+	min-width: 78%;
+}
+
+#submit{
+	height:60px;
+	width: 200px;
+	background-color: #588b3c;
+	font-size: 26px;
+	color: white;
+	border-radius: 25px;
+	vertical-align:middle;
+}
+
+#result{
+	white-space: pre-line;
+}
